@@ -1,0 +1,18 @@
+# Translations template for i18n.
+# Copyright (C) 2024 Humphrey Ikhalea
+# This file is distributed under the same license as the i18n project.
+# Humphrey Ikhalea <humphreyikhalea@gmail.com>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: humphreyikhalea@gmail.com\n"
+"POT-Creation-Date: 2024-07-31 06:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ikhalea Humphrey <humphreyikhalea@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
